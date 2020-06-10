@@ -13,7 +13,8 @@ int main(void) //always start with this
     }
     else
     {
-        printf("Number must be an integer\n"); //prompt for correct number  
+        printf("Number must be an integer\n"); //prompt for correct number
+        return minutes;
     }
     
 }
